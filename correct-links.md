@@ -1,0 +1,13 @@
+<!-- [Link 1](https://www.rfc-editor.org/rfc/rfc9110.html#section-5.1)
+[Link 2](https://www.rfc-editor.org/rfc/rfc9110.html#section-5.3)
+[Link 3](https://www.rfc-editor.org/rfc/rfc9110.html#section-5.4) -->
+[Link 4](https://www.rfc-editor.org/rfc/rfc9110.html#section-5.6.1)
+[Link 5](https://www.rfc-editor.org/rfc/rfc9110.html#section-5.6.2)
+[Link 6](https://www.rfc-editor.org/rfc/rfc9110.html#section-5.6.4)
+[Link 7](https://www.rfc-editor.org/rfc/rfc9110.html#section-9.3)
+[Link 8](https://www.rfc-editor.org/rfc/rfc9110.html#section-9.3.1)
+[Link 9](https://www.rfc-editor.org/rfc/rfc9110.html#section-9.3.5)
+[Link 10](https://www.rfc-editor.org/rfc/rfc9110.html#section-11.1)
+[Link 11](https://www.rfc-editor.org/rfc/rfc9110.html#section-14.6)
+[Link 12](https://www.rfc-editor.org/rfc/rfc9110.html#section-16.4.1)
+[Link 13](https://www.rfc-editor.org/rfc/rfc9110.html#appendix-A)

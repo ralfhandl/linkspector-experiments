@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "linkspector check --config ./.linkspector.yml"
+    "test": "linkspector check"
   },
   "dependencies": {
     "@umbrelladocs/linkspector": "^0.5.3"
