@@ -1,0 +1,15 @@
+{
+  "name": "linkspector-experiments",
+  "version": "0.0.0",
+  "description": "Experiments with Linkspector",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "linkspector check --config ./.linkspector.yml"
+  },
+  "dependencies": {
+    "@umbrelladocs/linkspector": "^0.5.3"
+  }
+}
